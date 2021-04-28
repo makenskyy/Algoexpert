@@ -1,6 +1,5 @@
-package com.tournament_winner;
+package com.easy.tournament_winner;
 
-import java.lang.reflect.Array;
 import java.util.*;
 
 public class TournamentWinner {

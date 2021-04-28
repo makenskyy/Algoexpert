@@ -1,8 +1,6 @@
-package com.sorted_squared_array;
+package com.easy.sorted_squared_array;
 
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
 
 public class SortedSquaredArray {
     public static void main(String[] args) {

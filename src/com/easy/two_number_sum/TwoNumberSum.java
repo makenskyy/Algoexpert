@@ -1,7 +1,6 @@
-package com.two_number_sum;
+package com.easy.two_number_sum;
 
 import java.util.HashMap;
-import java.util.Map;
 
 public class TwoNumberSum {
     public static void main(String[] args) {
