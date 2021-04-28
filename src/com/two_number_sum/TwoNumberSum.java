@@ -1,4 +1,4 @@
-package com.Myrza.two_number_sum;
+package com.two_number_sum;
 
 import java.util.HashMap;
 import java.util.Map;
