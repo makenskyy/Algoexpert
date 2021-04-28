@@ -1,4 +1,4 @@
-package com.easy.non_constructible_change;
+package com.array.easy.non_constructible_change;
 
 public class NonConstructibleChange {
     public static void main(String[] args) {

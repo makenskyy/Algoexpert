@@ -1,4 +1,4 @@
-package com.easy.tournament_winner;
+package com.array.easy.tournament_winner;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package com.easy.sorted_squared_array;
+package com.array.easy.sorted_squared_array;
 
 import java.util.Arrays;
 

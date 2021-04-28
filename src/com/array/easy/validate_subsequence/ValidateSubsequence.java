@@ -1,4 +1,4 @@
-package com.easy.validate_subsequence;
+package com.array.easy.validate_subsequence;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -21,6 +21,7 @@ public class ValidateSubsequence {
         // Test 5
             boolean test5 = isValidSubsequence(new ArrayList<>(Arrays.asList(1, 2, 3, 4, 5)), new ArrayList<>(Arrays.asList(6, 7, 8, 9)));
             System.out.println(test5);
+
             
     }
 
