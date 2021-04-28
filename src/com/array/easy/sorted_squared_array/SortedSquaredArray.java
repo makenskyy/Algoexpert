@@ -9,6 +9,7 @@ public class SortedSquaredArray {
         System.out.println(Arrays.toString(sortedSquaredArray(new int[]{-10, -5, 0, 5, 10})));
         // Output : [0, 25, 25, 100, 100]
 
+
     }
     public static int[] sortedSquaredArray(int[] array) {
         int[] result = new int[array.length];
