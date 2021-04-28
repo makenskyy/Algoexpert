@@ -22,7 +22,7 @@ public class ValidateSubsequence {
             boolean test5 = isValidSubsequence(new ArrayList<>(Arrays.asList(1, 2, 3, 4, 5)), new ArrayList<>(Arrays.asList(6, 7, 8, 9)));
             System.out.println(test5);
 
-            
+
     }
 
     public static boolean isValidSubsequence(List<Integer> array, List<Integer> sequence) {

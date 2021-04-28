@@ -23,6 +23,7 @@ public class TwoNumberSum {
         for(int i = 0; i<array.length; i++){
             map.put(array[i], i);
         }
+
         for(int i = 0; i<array.length; i++){
             if(map.containsKey(targetSum - array[i]) && map.get(targetSum - array[i]) != i){
                 return new int[] {array[i], targetSum-array[i]};
